@@ -1,2 +1,3 @@
 # Basit-hesap-makinesi
-yazılım öğrenmeye yeni başladım öğrendiğim terimleri direkt projeye dönüştürüyorum.Eğer bana yardımcı olmak isterseniz bu yayınladığım  projelere basit şeyler eklerseniz sevinirim.
+yazılım öğrenmeye yeni başladım öğrendiğim terimleri direkt projeye dönüştürüyorum.Eğer bana yardımcı olmak isterseniz bu yayınladığım  projelere basit şeyler eklerseniz sevinirim.Birde lütfen yorum satırıyla açıklarsanız çok daha faydalı olur ayrıyetten bu hesap makinesine bir arayüz eklemek istiyorsanız bunun içinde bir dosya açıcağım,ben şuan arayüz yapmayı hiç bilmiyorum eğer arayüz yapmays yeni başladıysanız ve ödev tarzı bir proje yapmak istiyorsanız burada yapabilirsiniz :)
+NOT: DOSYA ADI TKİNTER OLABİLİR SİZ PYTHON UYUMLU BAŞKA ARAYÜZ UYGULAMASI KULLANABİLİRSİNİZ.
